@@ -1,7 +1,7 @@
 
 # アジ鯖、たのしい。
 
-![アジ鯖](https://github.com/azisaba/monocraftpage/blob/main/images/azisaba.png)
+![アジ鯖](https://i.azisaba.net/votesites/azisaba.png)
 
 ### アジ鯖では**生活サーバー**を**基本**として、**過去に存在したサーバーのリニューアル**や、また**アジ鯖独自のサーバー**など、**多種多様**なゲームを取り揃えています。
 

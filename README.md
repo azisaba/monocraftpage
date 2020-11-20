@@ -35,3 +35,4 @@ LeonGunWarサーバーでは**チームデスマッチ**や**リーダーデス�
 
 ## [ルールを確認](https://azisaba.net/terms)し、今すぐ[アジ鯖に参加](https://azisaba.net/join)しよう！
  
+![参加](https://cdn.discordapp.com/attachments/775019788060852265/779382099567706142/unknown.png)

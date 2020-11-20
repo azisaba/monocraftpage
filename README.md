@@ -10,7 +10,7 @@
 
 ## Lifeサーバー
 
-
+![Life鯖](https://image01.seesaawiki.jp/a/g/azisabaofficial-playing/zaeo0PNhKd.png)
  
 アジ鯖の中心的なサーバーです！
 

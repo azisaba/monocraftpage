@@ -1,7 +1,7 @@
 
 # アジ鯖、たのしい。
 
-![アジ鯖](https://cdn.discordapp.com/attachments/775019788060852265/779313830034800640/e20cfe4d2896f6f7.png)
+![アジ鯖](https://github.com/azisaba/monocraftpage/blob/main/images/azisaba.png)
 
 ### アジ鯖では**生活サーバー**を**基本**として、**過去に存在したサーバーのリニューアル**や、また**アジ鯖独自のサーバー**など、**多種多様**なゲームを取り揃えています。
 
@@ -12,7 +12,7 @@
 
 ## Lifeサーバー
 
-![Life鯖](https://image01.seesaawiki.jp/a/g/azisabaofficial-playing/zaeo0PNhKd.png)
+![Life鯖](https://github.com/azisaba/monocraftpage/blob/main/images/life.png)
  
 アジ鯖の**中心的なサーバー**です！
 
@@ -27,7 +27,7 @@ Life生活鯖では、どんな方にもわかりやすく、気軽に、そし�
 
 ## LGWサーバー
 
-![LGW鯖](https://i.gyazo.com/ad788efed5e3c33062962ca177dbb146.jpg)
+![LGW鯖](https://github.com/azisaba/monocraftpage/blob/main/images/lgw.jpg)
  
 (正式名称：LeonGunWarサーバー)は無料で遊べる**FPS(ファーストパーソン・シューティング)** のサーバーです。
 LeonGunWarサーバーでは**チームデスマッチ**や**リーダーデスマッチ**のPvPを基本とし、イベントの際にはそれと別にFFA(個人戦のPvP)やPvE(プレイヤーvsエンティティ)など色々な楽しみ方があります！

@@ -1,5 +1,3 @@
-# monocraftpage
-
 
 # アジ鯖、たのしい。
 

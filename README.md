@@ -1,4 +1,4 @@
-![Sclat](https://github.com/azisaba/i.azisaba.net/blob/main/votesites/sclat%20open%20beta.png)
+![Sclat](https://i.azisaba.net/votesites/sclat%20open%20beta.png)
 
 # アジ鯖、たのしい。
 
@@ -36,7 +36,7 @@ LeonGunWarサーバーでは**チームデスマッチ**や**リーダーデス�
 
 ## PHANTASY GATE サーバー
 
-![PG鯖](https://github.com/azisaba/i.azisaba.net/blob/main/votesites/pg.png)
+![PG鯖](https://i.azisaba.net/votesites/pg.png)
 
 **『使命は、巨万の金を稼ぐこと』**<br>
 <br>

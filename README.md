@@ -1,4 +1,4 @@
-![Sclat](https://i.azisaba.net/votesites/sclat%20open%20beta.png)
+![Coretol](https://i.azisaba.net/votesites/coretol_alpha.png)
 
 # アジ鯖、たのしい。
 

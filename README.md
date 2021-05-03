@@ -1,4 +1,4 @@
-![Coretol](https://i.azisaba.net/votesites/coretol_alpha.png)
+![Coretol](https://i.azisaba.net/votesites/coretol_alpha_3.png)
 
 # アジ鯖、たのしい。
 

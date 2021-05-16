@@ -1,5 +1,3 @@
-![TSL](https://i.azisaba.net/votesites/tsl_beta.png)
-
 # アジ鯖、たのしい。
 
 ![アジ鯖](https://i.azisaba.net/votesites/azisaba.png)

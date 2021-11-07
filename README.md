@@ -11,7 +11,7 @@
 
 ## Lifeサーバー
 
-![Life鯖](https://i.azisaba.net/votesites/life.png)
+![Life鯖](https://i.azisaba.net/votesites/banner_life-1.png)
  
 アジ鯖の**中心的なサーバー**です！
 
@@ -26,27 +26,56 @@ Life生活鯖では、どんな方にもわかりやすく、気軽に、そし�
 
 ## LGWサーバー
 
-![LGW鯖](https://i.azisaba.net/votesites/lgw.jpg)
+![LGW鯖](https://i.azisaba.net/votesites/banner_lgw-2.png)
  
 (正式名称：LeonGunWarサーバー)は無料で遊べる**FPS(ファーストパーソン・シューティング)** のサーバーです。
 LeonGunWarサーバーでは**チームデスマッチ**や**リーダーデスマッチ**のPvPを基本とし、イベントの際にはそれと別にFFA(個人戦のPvP)やPvE(プレイヤーvsエンティティ)など色々な楽しみ方があります！
 銃撃戦サーバーなので、**敵を倒したり**する喜び、またどのようにすれば倒せるようになるかと**試行錯誤する楽しみ**などが楽しめます。またイベントは期間限定で行われますが、その中で**イベント限定武器**をコンプリートするといったような**コレクション**する、といった楽しみ方も出来ます。
 
+
+## Diverseサーバー
+
+![Diverse鯖](https://i.azisaba.net/votesites/banner_diverse-1.png)
+
+#### Minecraft Skill PvP の最高峰　究極の多様性を体感せよ！！
+~300種の武器から自分なりの戦い方を追求せよ！~
+
+ 美しく多様な装備の数々
+ サーバーを彩るのはカテゴリーにとらわれない武器たち。
+ あなたの求めるロマンはここに詰まっています！
+
+ 多彩な武器を駆使し、自分だけの装備の組み合わせを見つけよう！
+
+~多人数での大規模PVP！~
+
+多様なゲームモード
+全６種のゲームモードと、
+ゲームモードごとの多様なマップであなたを飽きさせません。
+
+####  ～君も今すぐ多様性を堪能しよう！～
+
+
 ## PHANTASY GATE サーバー
 
-![PG鯖](https://i.azisaba.net/votesites/pg.png)
+![PG鯖](https://i.azisaba.net/votesites/banner_pg-1.png)
 
 **『使命は、巨万の金を稼ぐこと』**
 
-
 ―――PHANTASY GATE は、そんな世界だ。
-
-
 
 採鉱や釣魚に商売―――堅実に金を稼ぐのもよし、
 賭博で一攫千金、一夜大尽―――幸運を信じて賭けに出るのもよし、
 生存のタメなんかじゃなくて、金を稼ぐタメに―――金を稼ぐ。
 
 ただ稼ぐこと。過労の代償とか賭博者の末路などという考えから離れて、ただ稼ぐこと。
+
+## The Slow Life
+
+![tsl](https://i.azisaba.net/votesites/banner_tsl-1.png)
+
+「Minecraftのバニラに近い生活サーバー」をコンセプトとしたサーバー。
+公開時点のMinecraft最新バージョン1.17の建材使用可能！
+**tslに接続して、Minecraft原点の生活を営もう！！**
+
 
 ![参加](https://i.azisaba.net/votesites/direct-connect.png)

@@ -9,6 +9,17 @@
 
 # 各サーバー紹介
 
+# ピックアップ サーバー!
+## The Slow Life
+
+![tsl](https://i.azisaba.net/votesites/banner_tsl-1.png)
+
+「Minecraftのバニラに近い生活サーバー」をコンセプトとしたサーバー。
+公開時点のMinecraft最新バージョン1.17の建材使用可能！
+**tslに接続して、Minecraft原点の生活を営もう！！**
+
+
+# 所属サーバー
 ## Lifeサーバー
 
 ![Life鯖](https://i.azisaba.net/votesites/banner_life-1.png)
@@ -68,14 +79,6 @@ LeonGunWarサーバーでは**チームデスマッチ**や**リーダーデス�
 生存のタメなんかじゃなくて、金を稼ぐタメに―――金を稼ぐ。
 
 ただ稼ぐこと。過労の代償とか賭博者の末路などという考えから離れて、ただ稼ぐこと。
-
-## The Slow Life
-
-![tsl](https://i.azisaba.net/votesites/banner_tsl-1.png)
-
-「Minecraftのバニラに近い生活サーバー」をコンセプトとしたサーバー。
-公開時点のMinecraft最新バージョン1.17の建材使用可能！
-**tslに接続して、Minecraft原点の生活を営もう！！**
 
 
 ![参加](https://i.azisaba.net/votesites/direct-connect.png)

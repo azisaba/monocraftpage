@@ -1,10 +1,8 @@
-# アジ鯖、たのしい。
-
-![アジ鯖](https://i.azisaba.net/votesites/azisaba.png)
-
 ### アジ鯖では**生活サーバー**を**基本**として、**過去に存在したサーバーのリニューアル**や、また**アジ鯖独自のサーバー**など、**多種多様**なゲームを取り揃えています。
+![アジ鯖1](https://i.azisaba.net/votesites/azisaba_srvs2021-1.png)
+![アジ鯖2](https://i.azisaba.net/votesites/azisaba_srvs2021-2.png)
 
-### アジ鯖について → <https://azisaba.net>
+### アジ鯖について → <https://www.azisaba.net>
 ### 寄付について → <https://store.azisaba.net>
 
 # 各サーバー紹介

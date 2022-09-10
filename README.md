@@ -7,16 +7,6 @@
 
 # 各サーバー紹介
 
-# ピックアップ サーバー!
-## The Slow Life
-
-![tsl](https://i.azisaba.net/votesites/banner_tsl-1.png)
-
-「Minecraftのバニラに近い生活サーバー」をコンセプトとしたサーバー。
-公開時点のMinecraft最新バージョン1.17の建材使用可能！
-**tslに接続して、Minecraft原点の生活を営もう！！**
-
-
 # 所属サーバー
 ## Lifeサーバー
 
